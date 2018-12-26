@@ -56,8 +56,8 @@ After choosing the best model and performing an optimization over hyper paramete
 
 |     Metric     | Unoptimized Model | Optimized Model |
 | :------------: | :---------------: | :-------------: | 
-| Accuracy Score |      0.8576       |    0.8666       |
-| F-score        |      0.7246       |    0.7432       |
+| Accuracy Score |      0.8576       |    0.8677       |
+| F-score        |      0.7246       |    0.7452       |
 
 **Model**: Decision Tree (weak classifier) on AdaBoosting ensemble method with the below parameters:
 
