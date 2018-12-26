@@ -61,6 +61,6 @@ After choosing the best model and performing an optimization over hyper paramete
 
 **Model**: Decision Tree (weak classifier) on AdaBoosting ensemble method with the below parameters:
 
-* `n_estimators`: 300
+* `n_estimators`: 500
 * `learning_rate`: 1.5
 * `algorithm`: SAMME.R
